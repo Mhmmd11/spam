@@ -1,6 +1,6 @@
 #!/usr/bin/env php
 
-#Dilarang copyright Mhmmdnafiz - AndroTech1733 2018 15 08 12:30
+#Dilarang copyright MhmmdArdi - AndroTech1733 2018 15 08 12:30
 
 <?php
 
@@ -113,14 +113,15 @@ function post_data($url,$data) {
 ___ ____ _____
 
 |_ _/ ___|_ _|__ _ __ __ _ _ __ ___
+ _xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;
+  ___     ____      ____     ___
+/     \  /   _  \   |     \  |   |
+|  -  |  |  |_| |   |  _  |  |   |
+| | | |  |   _ /    | | | |  |   | 
+|  -  |  |  | \ \   | |_| |  |   |
+|_| |_|  |__|  |_|  |____/   |___|
 
-| | | | |/ __| '_ \ / _` | '_ ` _ \
 
-| | |___ | |\__ \ |_) | (_| | | | | | |
-
-|___\____| |_||___/ .__/ \__,_|_| |_| |_|
-
-|_|
 
 ";
 

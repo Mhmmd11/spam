@@ -64,15 +64,15 @@ if(function_exists('pcntl_signal')) {
 
 		case SIGTERM:
 
-		die($Y."\n====================[] SIL3NT []=====(√√√)>".$X."\n");
+		die($Y."\n====================[] MR.ARDY []=====(√√√)>".$X."\n");
 
 		case SIGKILL:
 
-		die($Y."\n====================[] SIL3NT []=====(√√)>".$X."\n");
+		die($Y."\n====================[] MR.ARDY []=====(√√)>".$X."\n");
 
 		case SIGINT:
 
-		die($Y."\n====================[] SIL3NT []=====(√)>".$X."\n");
+		die($Y."\n====================[] MR.ARDY []=====(√)>".$X."\n");
 
 		}
 
@@ -124,7 +124,7 @@ ___ ____ _____
 
 ";
 
-echo $G."\n========[]SIL3NT SPAMER[]========".$X."\n";
+echo $G."\n========[]ARDY SPAMER[]========".$X."\n";
 
 echo $YY. $B."\n::###############################################";
 
@@ -132,17 +132,17 @@ echo $R."\n::############[WELCOME:MY:HOME]##################";
 
 echo $YY."\n::#: #";
 
-echo $BB."\n::#:Author ::[Deden Nefaily Herstain] #";
+echo $BB."\n::#:Author ::[Mhmmd Ardianto] #";
 
-echo $B."\n::#:Instagram ::[@Mujahidin.AlHasan:]#";
+echo $B."\n::#:Instagram ::[@Mhmmd_Ardi1:]#";
 
-echo $RR."\n::#:Github ::[http://github.com/SIIL3NT:] #";
+echo $RR."\n::#:Github ::[http://github.com/spam:] #";
 
 echo $R."\n::#:Facebook ::[AndroTech1733:] #";
 
-echo $G."\n::#:YouTube ::[SIL3NT GAMING:] #";
+echo $G."\n::#:YouTube ::[ARDY GAMING:] #";
 
-echo $GG."\n::#:Team ::[SIL3NT - AndroTech1734] #";
+echo $GG."\n::#:Team ::[ARDY - AndroTech1734] #";
 
 echo $YY."\n::#: #";
 

